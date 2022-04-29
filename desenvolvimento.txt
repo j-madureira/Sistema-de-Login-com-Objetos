@@ -1,0 +1,9 @@
+- Boas vindas ao cliente;
+- Receber o nome do cliente e informar para fazer cadastro;
+- Criar nome de usuário;
+- Criar senha;
+
+- Receber nome de usuário;
+- Receber senha;
+
+- Mensagem de bem vindo
